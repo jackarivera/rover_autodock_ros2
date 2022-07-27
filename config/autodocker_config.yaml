@@ -1,0 +1,5 @@
+autodock:
+  ros__parameters:
+    dock_pose_x: 0.0
+    dock_pose_y: 0.0
+    dock_pose_angle: 0.0
